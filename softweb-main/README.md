@@ -487,23 +487,23 @@ Publish the website in the given URL.
         </div>
         <div class="image">
             <div class="person">
-                <img src="harini.jpeg" alt="Harini">
-                <p class="name">HARINI </p>
+                <img src="C:\Users\SharonSanjana\AppData\Local\Temp\8f84c66c-e5c4-4876-bbff-ec2474503b68_sharondocuments.zip.b68\Sharon Sanjana.JPG" alt="Sharon">
+                <p class="name">SHARON </p>
                 <p class="desig">CEO</p>
             </div>
             <div class="person">
-                <img src="57465.JPG" alt="Sahithya">
-                <p class="name">SAHITHYA</p>
+                <img src="C:\Users\Sharon Sanjana\Downloads\baalu.jpg" alt="Baalu">
+                <p class="name">BAALU</p>
                 <p class="desig">GENERAL MANAGER</p>
             </div>
             <div class="person">
-                <img src="sop.jpeg" alt="Sopitha">
-                <p class="name">SOPITHA</p>
+                <img src="C:\Users\Sharon Sanjana\Downloads\naveen.jpg" alt="Naveen">
+                <p class="name">NAVEEN</p>
                 <p class="desig">HR MANAGER</p>
             </div>
             <div class="person">
-                <img src="mehak.jpeg" alt="Mehak">
-                <p class="name">MEHAK</p>
+                <img src="C:\Users\Sharon Sanjana\Downloads\meenu.jpg" alt="Meenu">
+                <p class="name">MEENU</p>
                 <p class="desig">MARKETING HEAD</p>
             </div>
         </div>
@@ -666,7 +666,7 @@ Publish the website in the given URL.
 
 ![Alt text](awsproduct.png)
 
-![Alt text](awspeople.png)
+![Alt text](C:\Users\Sharon Sanjana\Downloads\output softweb.jpeg)
 
 ![Alt text](awscontact.png)
 
