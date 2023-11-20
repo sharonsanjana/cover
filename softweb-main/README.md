@@ -666,7 +666,7 @@ Publish the website in the given URL.
 
 ![Alt text](awsproduct.png)
 
-![Alt text](Coutputsoftweb.jpeg)
+![Alt text](outputsoftweb.jpeg)
 
 ![Alt text](awscontact.png)
 
